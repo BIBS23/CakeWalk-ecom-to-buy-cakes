@@ -1,6 +1,6 @@
-# snapbut
+# CakeWalk
 
-A new Flutter project.
+An Ecom for buying Cake
 
 ## Getting Started
 
